@@ -3,6 +3,7 @@
 ## Keuntungan:
 - Mempercepat build app MHUB
 - Meminimalisir conflict antar squad
+- Skalabilitas Tim
 
 ## Kendala: 
 - Versi library menjadi perhatian
